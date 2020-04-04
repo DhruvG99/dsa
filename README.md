@@ -1,5 +1,5 @@
 # dsa
-Assignments and Project work related to EP4130
+Project work related to my EP4130(Data Science Analysis) project on COVID-19 and its effects. 
 
 ----------------------------
 PROJECT
